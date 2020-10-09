@@ -1,1 +1,1 @@
-# itsbeta3301.dev
+# itsbeta3301.github.io
